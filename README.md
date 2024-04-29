@@ -1,5 +1,4 @@
 # Enhancing-Direct-Marketing-Campaigns-for-Term-Deposits
-# Predictive Analytics in the Banking Industry
 
 The project aims to explore various predictive models to enhance customer relationship management, loan approval processes, and fraud detection using the provided bank dataset.
 
